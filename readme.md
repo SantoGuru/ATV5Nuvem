@@ -18,6 +18,7 @@ Back-end voltado ao Supabase;
 > npm install cors --save
 
 # AWS
+FRONT
 - Instale o servidor web Apache: 
 > sudo yum install -y httpd
 - Start do Apache
@@ -25,3 +26,13 @@ Back-end voltado ao Supabase;
 - Diretorio
 > sudo su
 > cd /var/www/html
+
+BACK
+- Node version manager
+> curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.3/install.sh | bash
+- Inicializar
+> . ~/.nvm/nvm.sh
+- Instalar
+> nvm install --lts
+- GIT
+> sudo yum install git -y
