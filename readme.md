@@ -1,6 +1,6 @@
 Back-end voltado ao Supabase;
 
-- Dependências (BACK-END):
+# Dependências (BACK-END):
 > npm init
 > npm install node --save
 > npm install express --save
@@ -10,7 +10,7 @@ Back-end voltado ao Supabase;
 > npm install body-parser --save
 > npm install cors --save
 
-- AWS
+# AWS
 - Instale o servidor web Apache: 
 > sudo yum install -y httpd
 - Start do Apache
